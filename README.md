@@ -5,4 +5,10 @@
 ### 使用方法：
 
 1.下载安装GKD，链接见上，或者使用Google Play安装
-2.
+
+2.添加订阅，输入`skip.json`的地址:
+```
+https://raw.githubusercontent.com/Zhengyscla/netease.skyskip/refs/heads/main/skip.json
+```
+
+3.启动订阅，激活无障碍，即可使用
