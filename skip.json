@@ -5,7 +5,7 @@
     {
       "key": 1,
       "name": "跳过游戏动画",
-      "desc": "自动点击右上角的'跳过'按钮以跳过动画",
+      "desc": "自动点击右上角'跳过'按钮（v0.14.0，HONOR OXF-AN00）",
       "rules": [
         {
           "activityIds": "com.tgc.sky.netease.GameActivity_Netease",
